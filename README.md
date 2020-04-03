@@ -51,6 +51,7 @@ ___
 ## LOCAL
 
 * [CVE suggest linux](https://github.com/mzet-/linux-exploit-suggester)
+* [CVE suggest Win](https://github.com/AonCyberLabs/Windows-Exploit-Suggester)
 * [Empire (win)](https://github.com/EmpireProject/Empire)
 * [GTFOBins](https://gtfobins.github.io/#)
 
