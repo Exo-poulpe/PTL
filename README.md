@@ -54,6 +54,7 @@ ___
 * [CVE suggest Win](https://github.com/AonCyberLabs/Windows-Exploit-Suggester)
 * [Empire (win)](https://github.com/EmpireProject/Empire)
 * [GTFOBins](https://gtfobins.github.io/#)
+* [compgen](https://www.cyberciti.biz/open-source/command-line-hacks/compgen-linux-command/)
 
 ## Password
 
