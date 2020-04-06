@@ -24,6 +24,7 @@ ___
 
 * [Big Wordlist](https://crackstation.net/crackstation-wordlist-password-cracking-dictionary.htm)
 * [All wordlist](https://weakpass.com/)
+* [Skull](https://wiki.skullsecurity.org/Passwords)
 
 ## Exploit
 
