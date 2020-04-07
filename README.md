@@ -56,6 +56,7 @@ ___
 * [Empire (win)](https://github.com/EmpireProject/Empire)
 * [GTFOBins](https://gtfobins.github.io/#)
 * [compgen](https://www.cyberciti.biz/open-source/command-line-hacks/compgen-linux-command/)
+* [WPForce](https://github.com/n00py/WPForce)
 
 ## Password
 
