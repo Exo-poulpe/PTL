@@ -8,7 +8,7 @@ ___
 4) [CVE](#CVE)
 5) [OSINT](#OSINT)
 6) [Shell](#Shell)
-7) [Local](#Local)
+7) [Local / enum](#Local)
 8) [Password](#Password)
 9) [General](#General)
 
@@ -48,6 +48,7 @@ ___
 * [Lot of Shell](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Reverse%20Shell%20Cheatsheet.md)
 * [Easy Shell](https://highon.coffee/blog/reverse-shell-cheat-sheet/)
 * [One Liner Shell soft](https://github.com/D4Vinci/One-Lin3r)
+* [XSS shell](https://gist.github.com/ivanvza/08d75112ee41dec3e92d0ff59505c678)
 
 ## LOCAL
 
@@ -57,6 +58,8 @@ ___
 * [GTFOBins](https://gtfobins.github.io/#)
 * [compgen](https://www.cyberciti.biz/open-source/command-line-hacks/compgen-linux-command/)
 * [WPForce](https://github.com/n00py/WPForce)
+* [Enum script](https://github.com/SolomonSklash/htbenum/blob/master/htbenum.sh)
+* [Priv esc](https://github.com/m0nad/awesome-privilege-escalation#sudo-and-suid)
 
 ## Password
 
