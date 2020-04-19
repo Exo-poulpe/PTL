@@ -19,6 +19,7 @@ ___
     * [BruteSpray](https://github.com/x90skysn3k/brutespray)
 * [Netcat](https://github.com/diegocr/netcat)
 * [Socat](http://www.dest-unreach.org/socat/)
+* [Nikto](https://github.com/sullo/nikto)
 
 ## WordList
 
