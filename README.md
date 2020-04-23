@@ -61,6 +61,7 @@ ___
 * [WPForce](https://github.com/n00py/WPForce)
 * [Enum script](https://github.com/SolomonSklash/htbenum/blob/master/htbenum.sh)
 * [Priv esc](https://github.com/m0nad/awesome-privilege-escalation#sudo-and-suid)
+* [Linux suggest v2](https://github.com/jondonas/linux-exploit-suggester-2)
 
 ## Password
 
