@@ -10,7 +10,8 @@ ___
 6) [Shell](#Shell)
 7) [Local / enum](#Local)
 8) [Password](#Password)
-9) [General](#General)
+9) [Backdoor](#Backdoor)
+10) [General](#General)
 
 
 ## Recon
@@ -72,6 +73,9 @@ ___
 * [Crackstation](https://crackstation.net/)
 * [THC-Hydra](https://github.com/vanhauser-thc/thc-hydra)
 * [Medusa](https://github.com/jmk-foofus/medusa)
+
+## Backdoor
+* [RootKit (sound good)](https://github.com/mempodippy/vlany)
 
 ## General
 * [Bible](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE/blob/master/README.md)
