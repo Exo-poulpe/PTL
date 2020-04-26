@@ -90,4 +90,6 @@ ___
     * CTF
     * etc
 
+* [Collections](https://github.com/trimstray/the-book-of-secret-knowledge)
+
 
