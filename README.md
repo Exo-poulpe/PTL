@@ -76,6 +76,8 @@ ___
 
 ## Backdoor
 * [RootKit (sound good)](https://github.com/mempodippy/vlany)
+* [Tine Shell](https://github.com/Exo-poulpe/tsh)
+* [trixd00r (sound good)](https://github.com/nullsecuritynet/tools/tree/master/backdoor/trixd00r)
 
 ## General
 * [Bible](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE/blob/master/README.md)
