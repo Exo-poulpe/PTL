@@ -49,6 +49,7 @@ ___
 
 * [Lot of Shell](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Reverse%20Shell%20Cheatsheet.md)
 * [Easy Shell](https://highon.coffee/blog/reverse-shell-cheat-sheet/)
+* [Sheel devops](https://delta.navisec.io/reverse-shell-reference/)
 * [One Liner Shell soft](https://github.com/D4Vinci/One-Lin3r)
 * [XSS shell](https://gist.github.com/ivanvza/08d75112ee41dec3e92d0ff59505c678)
 
@@ -76,8 +77,9 @@ ___
 
 ## Backdoor
 * [RootKit (sound good)](https://github.com/mempodippy/vlany)
-* [Tine Shell](https://github.com/Exo-poulpe/tsh)
+* [Tiny Shell](https://github.com/Exo-poulpe/tsh)
 * [trixd00r (sound good)](https://github.com/nullsecuritynet/tools/tree/master/backdoor/trixd00r)
+* [Revsh](https://github.com/emptymonkey/revsh)
 
 ## General
 * [Bible](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE/blob/master/README.md)
