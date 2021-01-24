@@ -69,6 +69,7 @@ Additional list +=1 : [pentest-cheat++](https://github.com/Kitsun3Sec/Pentest-Ch
 * [Priv esc](https://github.com/m0nad/awesome-privilege-escalation#sudo-and-suid)
 * [Linux suggest v2 (PERL)](https://github.com/jondonas/linux-exploit-suggester-2)
 * [Linux alt suggest (PERL)](https://github.com/InteliSecureLabs/Linux_Exploit_Suggester)
+* [Linux Smaert Enumeration](https://github.com/diego-treitos/linux-smart-enumeration)
 
 ## Password
 
