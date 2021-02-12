@@ -71,6 +71,8 @@ Additional list +=1 : [pentest-cheat++](https://github.com/Kitsun3Sec/Pentest-Ch
 * [Linux alt suggest (PERL)](https://github.com/InteliSecureLabs/Linux_Exploit_Suggester)
 * [Linux Smaert Enumeration](https://github.com/diego-treitos/linux-smart-enumeration)
 
+* [Lynis audit tools (UNIX system)](https://cisofy.com/lynis/)
+
 ## Password
 
 * [Best hashcat](https://hashcat.net/hashcat/)
