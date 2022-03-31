@@ -10,8 +10,9 @@ ___
 6) [Shell](#Shell)
 7) [Local / enum](#Local)
 8) [Password](#Password)
-9) [Backdoor](#Backdoor)
-10) [General](#General)
+9) [Reverse](#Reverse)
+10) [Backdoor](#Backdoor)
+11) [General](#General)
 
 Additional tools list : [pentest-cheat](https://github.com/Kr0wZ/pentest-cheatsheet/blob/master/CheatSheet.txt)
 
@@ -81,6 +82,14 @@ Additional list +=1 : [pentest-cheat++](https://github.com/Kitsun3Sec/Pentest-Ch
 * [Crackstation](https://crackstation.net/)
 * [THC-Hydra](https://github.com/vanhauser-thc/thc-hydra)
 * [Medusa](https://github.com/jmk-foofus/medusa)
+
+## Reverse
+* [gdbgui](https://www.gdbgui.com/)
+* [angr](http://angr.io/)
+* [cutter](https://cutter.re/)
+* [radare2](https://www.radare.org/n/)
+* [gdb-gef](https://gef.readthedocs.io/en/master/)
+* [ghidra](https://ghidra-sre.org/)
 
 ## Backdoor
 * [RootKit (sound good)](https://github.com/mempodippy/vlany)
